@@ -9,5 +9,5 @@ This Tool Tested On :
 ```bash
 git clone https://github.com/sachinpandey7709/Reverse_TCP.git
 cd Reverse_TCP
-python3 server.py
+python3 Target.py
 python3 Attacker.py
